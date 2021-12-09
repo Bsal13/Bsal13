@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Bsal13
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning Penetration Testing/HackTheBox for OSCP studies
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: e-mail - brian080984@protonmail.com
+- 💞️ I’m looking to collaborate with anyone studying for OSCP/Penetration Testing
+- 📫 How to reach me: 
+e-mail - brian080984@protonmail.com
+Telegram - @Brian08S
 
 <!---
 Bsal13/Bsal13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
